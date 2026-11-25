@@ -1,0 +1,14 @@
+{
+  "name": "tienda-carniceria",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Plantilla de tienda online para carnicerías (demo + un proyecto por cliente)",
+  "scripts": {
+    "dev": "node armar.mjs && node dev-server.js"
+  },
+  "dependencies": {
+    "@vercel/blob": "^2.9.0"
+  },
+  "engines": { "node": ">=20" }
+}

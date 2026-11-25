@@ -1,0 +1,18 @@
+{
+  "demo": true,
+  "clave": "demo",
+  "nombre": "Tu Carnicería",
+  "rubro": "Carnicería & Pollería",
+  "ciudad": "Córdoba",
+  "provincia": "Córdoba",
+  "desde": "2010",
+  "url": "https://carniceria-demo.vercel.app",
+  "whatsapp": "",
+  "telefono": "Tu número de WhatsApp",
+  "direccion": "Av. Siempre Viva 742 · Córdoba",
+  "calle": "Av. Siempre Viva 742",
+  "alias": "TU.ALIAS.ACA",
+  "cbu": "0000000000000000000000",
+  "titular": "Tu Carnicería",
+  "verificacionGoogle": ""
+}
